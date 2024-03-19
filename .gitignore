@@ -1,0 +1,19 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+*.userprefs
+
+# Archivos de NuGet
+packages/
+
+# Archivos de salida de Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Archivos de caché
+*.vs/
